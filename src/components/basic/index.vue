@@ -1,11 +1,8 @@
 <template>
-  <div>
-    <router-view></router-view>
-  </div>
+  <div>基础组件</div>
 </template>
 
 <script setup lang='ts'>
-console.log(import.meta.env)
 
 </script>
 
